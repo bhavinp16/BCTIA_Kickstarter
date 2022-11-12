@@ -10,8 +10,8 @@ npm run dev
 
 # How to compile
 
-cd ethereum
-node compile.js
+cd ethereum </br>
+node compile.js </br>
 
 # How to test
 
@@ -20,5 +20,5 @@ this command will use the mocha cli to run the campaign.test.js file
 
 # How to deploy
 
-cd ethereum
-node deploy.js
+cd ethereum </br>
+node deploy.js </br>
